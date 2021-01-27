@@ -6,7 +6,7 @@ We used Create React App to build components with useState hooks.
 After the project, I finalised some functionality and CSS.
 
 # Try out the deployed application
-[https://replacecomicsans.netlify.app/]
+https://replacecomicsans.netlify.app/
 
 
 # Run the app locally
